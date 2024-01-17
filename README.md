@@ -1,10 +1,3 @@
-<style>
-  a, a:hover {
-    text-decoration: none;
-    color: black;
-  }
-</style>
-
 [![Shubham's Github Banner](./assets/banner.jpg)](https://github.com/ShUbHaM13M)
 
 ###
@@ -24,7 +17,7 @@
 
 ### Skill Set
 
-<div align="left" style="background-color: #282a36; padding: 1em; border-radius: 6px; border: 1.5px solid white;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo"  />
@@ -73,7 +66,7 @@
 ### Github Stats
 
 <div align="left">
-  <img style="border: 1px solid white; border-radius:4px;" src="https://github-readme-activity-graph.vercel.app/graph?username=ShUbHaM13M&radius=4&area=false&hide_title=false&theme=dracula&hide_border=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShUbHaM13M&radius=4&area=false&hide_title=false&theme=dracula&hide_border=false" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShUbHaM13M&locale=en&hide_title=false&layout=compact&card_width=474&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
@@ -85,7 +78,7 @@
 
 ---
 
-### Recent Blog Posts
+# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
