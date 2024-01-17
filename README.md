@@ -81,4 +81,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opensource Contribution](https://dev.to/shubham13m/opensource-contribution-2nna)
+- [Elevate Your Development Workflow with TypeScript](https://dev.to/shubham13m/elevate-your-development-workflow-with-typescript-56oi)
+- [Vim &#39;navigation&#39; basics](https://dev.to/shubham13m/vim-navigation-basics-3062)
 <!-- BLOG-POST-LIST:END -->
